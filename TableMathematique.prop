@@ -1,0 +1,13 @@
+{
+	"modules": { 
+		"TableMathematique": {
+			"version": "1.0",
+			"name": "table_math",
+			"rules": {
+				"multiplication": ["multiplication table"],
+				"addition": ["addition table","addition"]
+			}
+		}
+	}
+}
+			
